@@ -1,4 +1,4 @@
-## Hi there I'm Willams:four_leaf_clover:
+## Hi there I'm Willams
 
 **I'm a Front-End developer in course of being a fullstack dev in Brazil.**
 
